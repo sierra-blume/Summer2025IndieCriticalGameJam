@@ -7,11 +7,15 @@ public enum GameState
 {
     //Possible game states
     WelcomeTutorial,
-    ReceiveAssignment,
+    ReceiveSet1,
     TargetSet1,
+    ReceiveSet2,
     TargetSet2,
+    ReceiveSet3,
     TargetSet3,
+    ReceiveSet4,
     TargetSet4,
+    ReceiveSet5,
     TargetSet5,
 }
 
@@ -47,15 +51,23 @@ public class GameManager : MonoBehaviour
         {
             case GameState.WelcomeTutorial:
                 break;
-            case GameState.ReceiveAssignment:
+            case GameState.ReceiveSet1:
                 break;
             case GameState.TargetSet1:
                 break;
+            case GameState.ReceiveSet2:
+                break;
             case GameState.TargetSet2:
+                break;
+            case GameState.ReceiveSet3:
                 break;
             case GameState.TargetSet3:
                 break;
+            case GameState.ReceiveSet4:
+                break;
             case GameState.TargetSet4:
+                break;
+            case GameState.ReceiveSet5:
                 break;
             case GameState.TargetSet5:
                 break;
