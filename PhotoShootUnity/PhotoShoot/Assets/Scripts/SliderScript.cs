@@ -24,10 +24,4 @@ public class SliderScript : MonoBehaviour
             GameManager.mouseSensitivity = (int)v;
         });
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
