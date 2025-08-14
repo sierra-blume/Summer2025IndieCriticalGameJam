@@ -9,25 +9,19 @@ public class SliderScript : MonoBehaviour
     [SerializeField] private Slider _slider;
     [SerializeField] private TextMeshProUGUI _sliderText;
 
+    private int defaultMouseSensitivity = 250;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        GameManager.mouseSensitivity = defaultMouseSensitivity;
+        _slider.value = defaultMouseSensitivity;
+        _sliderText.text = defaultMouseSensitivity.ToString("0");
+
         _slider.onValueChanged.AddListener((v) =>
         {
             _sliderText.text = v.ToString("0") + "                                                                                 L bozo";
-            if (GameManager.Instance == null)
-            {
-                Debug.LogError("GameManager NOT detected");
-
-                int mouseSensitivity = (int)v;
-                GameManager.mouseSensitivity = mouseSensitivity;
-            }
-            else
-            {
-                Debug.Log("GameManager detected");
-                int mouseSensitivity = (int)v;
-                GameManager.Instance.mouseSensitivity = mouseSensitivity;
-            }
+            GameManager.mouseSensitivity = (int)v;
         });
     }
 
