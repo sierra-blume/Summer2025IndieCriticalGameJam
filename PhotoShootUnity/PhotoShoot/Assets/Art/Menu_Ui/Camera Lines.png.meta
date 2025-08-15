@@ -1,0 +1,6123 @@
+fileFormatVersion: 2
+guid: 85e668295f2e5324694e3ba7ea120538
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5770496658169021747
+    second: Camera Lines_0
+  - first:
+      213: -6433362106324789874
+    second: Camera Lines_1
+  - first:
+      213: -3892607153055394429
+    second: Camera Lines_2
+  - first:
+      213: 5869624503928201995
+    second: Camera Lines_3
+  - first:
+      213: -2009628078569279183
+    second: Camera Lines_4
+  - first:
+      213: 1513783697013293941
+    second: Camera Lines_5
+  - first:
+      213: 5691278413185700596
+    second: Camera Lines_6
+  - first:
+      213: -8742571491262700108
+    second: Camera Lines_7
+  - first:
+      213: 148464313797278745
+    second: Camera Lines_8
+  - first:
+      213: -2126089023024374554
+    second: Camera Lines_9
+  - first:
+      213: -8431236613350884237
+    second: Camera Lines_10
+  - first:
+      213: -5744670315979675101
+    second: Camera Lines_11
+  - first:
+      213: 5235723749095236619
+    second: Camera Lines_12
+  - first:
+      213: 6883489868170695757
+    second: Camera Lines_13
+  - first:
+      213: 970042605014282718
+    second: Camera Lines_14
+  - first:
+      213: 3345980466597173788
+    second: Camera Lines_15
+  - first:
+      213: -8426341685907332231
+    second: Camera Lines_16
+  - first:
+      213: -8842516933465933214
+    second: Camera Lines_17
+  - first:
+      213: 1489722175157042916
+    second: Camera Lines_18
+  - first:
+      213: 925882436216065334
+    second: Camera Lines_19
+  - first:
+      213: -6532018974980676152
+    second: Camera Lines_20
+  - first:
+      213: 2674211513756755853
+    second: Camera Lines_21
+  - first:
+      213: -6725478189723397366
+    second: Camera Lines_22
+  - first:
+      213: -4415882124111351162
+    second: Camera Lines_23
+  - first:
+      213: 1795243939391218061
+    second: Camera Lines_24
+  - first:
+      213: 5106141223273409561
+    second: Camera Lines_25
+  - first:
+      213: 8145495010875637319
+    second: Camera Lines_26
+  - first:
+      213: 2146483319986348066
+    second: Camera Lines_27
+  - first:
+      213: -5339849353196695866
+    second: Camera Lines_28
+  - first:
+      213: -5088335809205172566
+    second: Camera Lines_29
+  - first:
+      213: -7141095681819504117
+    second: Camera Lines_30
+  - first:
+      213: -1735136854819782595
+    second: Camera Lines_31
+  - first:
+      213: 4166400069432232644
+    second: Camera Lines_32
+  - first:
+      213: 6023358103834268809
+    second: Camera Lines_33
+  - first:
+      213: -1470663293037621003
+    second: Camera Lines_34
+  - first:
+      213: -6345944074736022014
+    second: Camera Lines_35
+  - first:
+      213: 453865672535863834
+    second: Camera Lines_36
+  - first:
+      213: 2917209376655981246
+    second: Camera Lines_37
+  - first:
+      213: -6000824729714615642
+    second: Camera Lines_38
+  - first:
+      213: 1348597515797485511
+    second: Camera Lines_39
+  - first:
+      213: -1451612814506841540
+    second: Camera Lines_40
+  - first:
+      213: 5840136196032854030
+    second: Camera Lines_41
+  - first:
+      213: 1938569525530189067
+    second: Camera Lines_42
+  - first:
+      213: -2710627001728377773
+    second: Camera Lines_43
+  - first:
+      213: 2219028378748137090
+    second: Camera Lines_44
+  - first:
+      213: -8959194191878575609
+    second: Camera Lines_45
+  - first:
+      213: 2148251515167964907
+    second: Camera Lines_46
+  - first:
+      213: -6476817199538034350
+    second: Camera Lines_47
+  - first:
+      213: 7956336934682137539
+    second: Camera Lines_48
+  - first:
+      213: 5419020120539088046
+    second: Camera Lines_49
+  - first:
+      213: -2326761910719844363
+    second: Camera Lines_50
+  - first:
+      213: 4897251727590356211
+    second: Camera Lines_51
+  - first:
+      213: 2051967411367797084
+    second: Camera Lines_52
+  - first:
+      213: -92451777343900712
+    second: Camera Lines_53
+  - first:
+      213: -5953117564653651133
+    second: Camera Lines_54
+  - first:
+      213: -8790405329085707595
+    second: Camera Lines_55
+  - first:
+      213: -4682524817883564962
+    second: Camera Lines_56
+  - first:
+      213: -7508717965150812381
+    second: Camera Lines_57
+  - first:
+      213: -6466892537516276832
+    second: Camera Lines_58
+  - first:
+      213: 951301469967827571
+    second: Camera Lines_59
+  - first:
+      213: -5680817532615205268
+    second: Camera Lines_60
+  - first:
+      213: -5129821234827426915
+    second: Camera Lines_61
+  - first:
+      213: 6322197547144929127
+    second: Camera Lines_62
+  - first:
+      213: 9082622034475768488
+    second: Camera Lines_63
+  - first:
+      213: -9067146436348806670
+    second: Camera Lines_64
+  - first:
+      213: 1997939514059248036
+    second: Camera Lines_65
+  - first:
+      213: -9113878770311163832
+    second: Camera Lines_66
+  - first:
+      213: -5728960433406094729
+    second: Camera Lines_67
+  - first:
+      213: 4627041718752487245
+    second: Camera Lines_68
+  - first:
+      213: 3723686521429839497
+    second: Camera Lines_69
+  - first:
+      213: 8773910340883386529
+    second: Camera Lines_70
+  - first:
+      213: 6613165629822170155
+    second: Camera Lines_71
+  - first:
+      213: 3067657967426633420
+    second: Camera Lines_72
+  - first:
+      213: -2429810285664530171
+    second: Camera Lines_73
+  - first:
+      213: 5031644413185395151
+    second: Camera Lines_74
+  - first:
+      213: 7329475131512961275
+    second: Camera Lines_75
+  - first:
+      213: -4978968318206806213
+    second: Camera Lines_76
+  - first:
+      213: 5374344713318249168
+    second: Camera Lines_77
+  - first:
+      213: 3548647827706648752
+    second: Camera Lines_78
+  - first:
+      213: -7493854996672285213
+    second: Camera Lines_79
+  - first:
+      213: -5333220218984868019
+    second: Camera Lines_80
+  - first:
+      213: -8998349975249012011
+    second: Camera Lines_81
+  - first:
+      213: 7251574869360375201
+    second: Camera Lines_82
+  - first:
+      213: -2215615057106944476
+    second: Camera Lines_83
+  - first:
+      213: -1264230079902240278
+    second: Camera Lines_84
+  - first:
+      213: -2320327671954433069
+    second: Camera Lines_85
+  - first:
+      213: -8703097070567815065
+    second: Camera Lines_86
+  - first:
+      213: -2293276021203451996
+    second: Camera Lines_87
+  - first:
+      213: -778504495969108142
+    second: Camera Lines_88
+  - first:
+      213: -2458610011696394867
+    second: Camera Lines_89
+  - first:
+      213: -3168251554557444521
+    second: Camera Lines_90
+  - first:
+      213: -2809957865558988112
+    second: Camera Lines_91
+  - first:
+      213: 7075901269933944368
+    second: Camera Lines_92
+  - first:
+      213: 2673186404777915506
+    second: Camera Lines_93
+  - first:
+      213: 3621012597239964125
+    second: Camera Lines_94
+  - first:
+      213: 2701438700904920215
+    second: Camera Lines_95
+  - first:
+      213: -8724740564455043453
+    second: Camera Lines_96
+  - first:
+      213: 2382305980740874302
+    second: Camera Lines_97
+  - first:
+      213: 2128349540685858662
+    second: Camera Lines_98
+  - first:
+      213: 6826770531666142142
+    second: Camera Lines_99
+  - first:
+      213: -2925473431679194610
+    second: Camera Lines_100
+  - first:
+      213: -9189381732372069123
+    second: Camera Lines_101
+  - first:
+      213: -4125394734799851964
+    second: Camera Lines_102
+  - first:
+      213: 8837426544734586248
+    second: Camera Lines_103
+  - first:
+      213: 1401818188773200374
+    second: Camera Lines_104
+  - first:
+      213: 1438514148152792980
+    second: Camera Lines_105
+  - first:
+      213: -2003136789697029848
+    second: Camera Lines_106
+  - first:
+      213: 9192034622548022033
+    second: Camera Lines_107
+  - first:
+      213: 2343656863523516198
+    second: Camera Lines_108
+  - first:
+      213: 3429232551386286594
+    second: Camera Lines_109
+  - first:
+      213: -5232137068148102113
+    second: Camera Lines_110
+  - first:
+      213: 2893728853952537301
+    second: Camera Lines_111
+  - first:
+      213: -9113296370117702264
+    second: Camera Lines_112
+  - first:
+      213: -4104926673020825666
+    second: Camera Lines_113
+  - first:
+      213: 1227658247018019760
+    second: Camera Lines_114
+  - first:
+      213: -2463751194222507278
+    second: Camera Lines_115
+  - first:
+      213: 6564975204838927164
+    second: Camera Lines_116
+  - first:
+      213: 8266784453465669557
+    second: Camera Lines_117
+  - first:
+      213: -7658863632294622204
+    second: Camera Lines_118
+  - first:
+      213: 4796156846868977502
+    second: Camera Lines_119
+  - first:
+      213: 7021025095741611898
+    second: Camera Lines_120
+  - first:
+      213: 9018544953159495921
+    second: Camera Lines_121
+  - first:
+      213: -6070512518175194379
+    second: Camera Lines_122
+  - first:
+      213: 8494144053170304396
+    second: Camera Lines_123
+  - first:
+      213: -327866543077608226
+    second: Camera Lines_124
+  - first:
+      213: 3832114794533599731
+    second: Camera Lines_125
+  - first:
+      213: -2209793994988224254
+    second: Camera Lines_126
+  - first:
+      213: -9123241008598760269
+    second: Camera Lines_127
+  - first:
+      213: -6283385414873795236
+    second: Camera Lines_128
+  - first:
+      213: 8610033249415549512
+    second: Camera Lines_129
+  - first:
+      213: 692973130599271057
+    second: Camera Lines_130
+  - first:
+      213: -5931070440608356243
+    second: Camera Lines_131
+  - first:
+      213: -6630452843656883692
+    second: Camera Lines_132
+  - first:
+      213: -2992048910713196262
+    second: Camera Lines_133
+  - first:
+      213: -8717487791744966366
+    second: Camera Lines_134
+  - first:
+      213: -5329161412870965435
+    second: Camera Lines_135
+  - first:
+      213: -1813375002177530576
+    second: Camera Lines_136
+  - first:
+      213: 1032238896465859984
+    second: Camera Lines_137
+  - first:
+      213: -5549967919334957356
+    second: Camera Lines_138
+  - first:
+      213: -1628219749360011636
+    second: Camera Lines_139
+  - first:
+      213: 4192747946975034343
+    second: Camera Lines_140
+  - first:
+      213: 5872617436837525562
+    second: Camera Lines_141
+  - first:
+      213: -9181810113897335342
+    second: Camera Lines_142
+  - first:
+      213: -7730478975024380541
+    second: Camera Lines_143
+  - first:
+      213: 8763016392648705201
+    second: Camera Lines_144
+  - first:
+      213: -3989621734405558619
+    second: Camera Lines_145
+  - first:
+      213: 3085144182038740952
+    second: Camera Lines_146
+  - first:
+      213: -3186815750375937238
+    second: Camera Lines_147
+  - first:
+      213: -7020814275567887696
+    second: Camera Lines_148
+  - first:
+      213: -3426914481365367045
+    second: Camera Lines_149
+  - first:
+      213: -8403803911771860607
+    second: Camera Lines_150
+  - first:
+      213: 8734197348243766730
+    second: Camera Lines_151
+  - first:
+      213: 1573275165008719445
+    second: Camera Lines_152
+  - first:
+      213: -6097379621665124283
+    second: Camera Lines_153
+  - first:
+      213: 8813622181041410156
+    second: Camera Lines_154
+  - first:
+      213: 8741742764227758990
+    second: Camera Lines_155
+  - first:
+      213: -4448797306403959080
+    second: Camera Lines_156
+  - first:
+      213: -5337380125780344119
+    second: Camera Lines_157
+  - first:
+      213: -6648230098466376516
+    second: Camera Lines_158
+  - first:
+      213: -8598432887949169969
+    second: Camera Lines_159
+  - first:
+      213: -628929932778278349
+    second: Camera Lines_160
+  - first:
+      213: -1862304730512901637
+    second: Camera Lines_161
+  - first:
+      213: -2037398328474850632
+    second: Camera Lines_162
+  - first:
+      213: -6200478566868768511
+    second: Camera Lines_163
+  - first:
+      213: -5733027282506253312
+    second: Camera Lines_164
+  - first:
+      213: -5697105871192521346
+    second: Camera Lines_165
+  - first:
+      213: 4543255447533719820
+    second: Camera Lines_166
+  - first:
+      213: -376034025664949506
+    second: Camera Lines_167
+  - first:
+      213: 2795699048303981581
+    second: Camera Lines_168
+  - first:
+      213: -6679466480389935448
+    second: Camera Lines_169
+  - first:
+      213: 5436574854570174057
+    second: Camera Lines_170
+  - first:
+      213: -2818462270797423655
+    second: Camera Lines_171
+  - first:
+      213: 2816144518936661512
+    second: Camera Lines_172
+  - first:
+      213: 2032851951398187194
+    second: Camera Lines_173
+  - first:
+      213: -4283856217760278654
+    second: Camera Lines_174
+  - first:
+      213: 2041673718601600919
+    second: Camera Lines_175
+  - first:
+      213: 8240763231130593359
+    second: Camera Lines_176
+  - first:
+      213: -5365322996349041989
+    second: Camera Lines_177
+  - first:
+      213: -5788517204834348367
+    second: Camera Lines_178
+  - first:
+      213: -5694368392743414790
+    second: Camera Lines_179
+  - first:
+      213: 8571305084224094165
+    second: Camera Lines_180
+  - first:
+      213: 6689477617913035199
+    second: Camera Lines_181
+  - first:
+      213: -690011496660776251
+    second: Camera Lines_182
+  - first:
+      213: -8262903239032158702
+    second: Camera Lines_183
+  - first:
+      213: -7064463356908856795
+    second: Camera Lines_184
+  - first:
+      213: -2033892122801819350
+    second: Camera Lines_185
+  - first:
+      213: -3476215870256516323
+    second: Camera Lines_186
+  - first:
+      213: -3255420585500020026
+    second: Camera Lines_187
+  - first:
+      213: -6696708927222523871
+    second: Camera Lines_188
+  - first:
+      213: 927166797903271204
+    second: Camera Lines_189
+  - first:
+      213: -5347171348249103937
+    second: Camera Lines_190
+  - first:
+      213: 8444791568243045833
+    second: Camera Lines_191
+  - first:
+      213: -1525143687934874745
+    second: Camera Lines_192
+  - first:
+      213: 8688208376371138034
+    second: Camera Lines_193
+  - first:
+      213: 7086089038422804431
+    second: Camera Lines_194
+  - first:
+      213: -7065713461607957540
+    second: Camera Lines_195
+  - first:
+      213: -6767997415793712195
+    second: Camera Lines_196
+  - first:
+      213: 8365857877627721596
+    second: Camera Lines_197
+  - first:
+      213: -1308903331186611261
+    second: Camera Lines_198
+  - first:
+      213: 9177548183389567062
+    second: Camera Lines_199
+  - first:
+      213: 534987898452917295
+    second: Camera Lines_200
+  - first:
+      213: 4952923335183687018
+    second: Camera Lines_201
+  - first:
+      213: 7806304565095027115
+    second: Camera Lines_202
+  - first:
+      213: -8092691203692337735
+    second: Camera Lines_203
+  - first:
+      213: -7941460411929012430
+    second: Camera Lines_204
+  - first:
+      213: 9058283809918449853
+    second: Camera Lines_205
+  - first:
+      213: -409670776815232732
+    second: Camera Lines_206
+  - first:
+      213: -3823572008635434739
+    second: Camera Lines_207
+  - first:
+      213: 2240817316306705837
+    second: Camera Lines_208
+  - first:
+      213: -708911630822524015
+    second: Camera Lines_209
+  - first:
+      213: 3215863340516903713
+    second: Camera Lines_210
+  - first:
+      213: 9057965280798540133
+    second: Camera Lines_211
+  - first:
+      213: 3346995490517750524
+    second: Camera Lines_212
+  - first:
+      213: 4694700305057774793
+    second: Camera Lines_213
+  - first:
+      213: -7381293217385551660
+    second: Camera Lines_214
+  - first:
+      213: 7894857560331308533
+    second: Camera Lines_215
+  - first:
+      213: 1106171396195132653
+    second: Camera Lines_216
+  - first:
+      213: 552364596157215524
+    second: Camera Lines_217
+  - first:
+      213: -7056031927392179191
+    second: Camera Lines_218
+  - first:
+      213: 6212470458216941123
+    second: Camera Lines_219
+  - first:
+      213: -4982386510328545976
+    second: Camera Lines_220
+  - first:
+      213: -3571956569210128216
+    second: Camera Lines_221
+  - first:
+      213: -5229420672484220528
+    second: Camera Lines_222
+  - first:
+      213: 7530581046279611096
+    second: Camera Lines_223
+  - first:
+      213: -6443097411590011388
+    second: Camera Lines_224
+  - first:
+      213: 3708190579815682226
+    second: Camera Lines_225
+  - first:
+      213: -8921743521075760668
+    second: Camera Lines_226
+  - first:
+      213: -8361542243458006434
+    second: Camera Lines_227
+  - first:
+      213: 3114326687341209721
+    second: Camera Lines_228
+  - first:
+      213: -4666935988226639409
+    second: Camera Lines_229
+  - first:
+      213: -662072020262383479
+    second: Camera Lines_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Camera Lines_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 180
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3354ebf132ce41050800000000000000
+      internalID: 5770496658169021747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 765
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855d0def3b18b6a0800000000000000
+      internalID: -6433362106324789874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 773
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3851dff0b6eaaf9c0800000000000000
+      internalID: -3892607153055394429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 774
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03a1914368157150800000000000000
+      internalID: 5869624503928201995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 764
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313a36f8ed5c14e0800000000000000
+      internalID: -2009628078569279183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 767
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5734147804a020510800000000000000
+      internalID: 1513783697013293941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 784
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f258c7209b7bfe40800000000000000
+      internalID: 5691278413185700596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 764
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b564df7c852ca680800000000000000
+      internalID: -8742571491262700108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 771
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c75bdb1837f0200800000000000000
+      internalID: 148464313797278745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 764
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec56cd4c4d9e72e0800000000000000
+      internalID: -2126089023024374554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 765
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cf3f388fa3efa80800000000000000
+      internalID: -8431236613350884237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 777
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32aec40c8c4d640b0800000000000000
+      internalID: -5744670315979675101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 775
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04e5ee720709a840800000000000000
+      internalID: 5235723749095236619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 764
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4490579091178f50800000000000000
+      internalID: 6883489868170695757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_14
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 778
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1fed81c98467d00800000000000000
+      internalID: 970042605014282718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 780
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a9be0b18f4f6e20800000000000000
+      internalID: 3345980466597173788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 765
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9736d6f91ee9f0b80800000000000000
+      internalID: -8426341685907332231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 764
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26af26cd2b1194580800000000000000
+      internalID: -8842516933465933214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 764
+        width: 90
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef148ec6e8ca410800000000000000
+      internalID: 1489722175157042916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_19
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 765
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d8e629b2569dc00800000000000000
+      internalID: 925882436216065334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 765
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56a22b95b9955a0800000000000000
+      internalID: -6532018974980676152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 764
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d872bb30435bc1520800000000000000
+      internalID: 2674211513756755853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_22
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 765
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0356e4383d4aa2a0800000000000000
+      internalID: -6725478189723397366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_23
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 765
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682785eba92a7b2c0800000000000000
+      internalID: -4415882124111351162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_24
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 764
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81269ce9dcf9e810800000000000000
+      internalID: 1795243939391218061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 766
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca03a9368acd640800000000000000
+      internalID: 5106141223273409561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_26
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 766
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e75f24e8c9a0170800000000000000
+      internalID: 8145495010875637319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_27
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 766
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220661cf437d9cd10800000000000000
+      internalID: 2146483319986348066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_28
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 783
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce8c941e4b05e5b0800000000000000
+      internalID: -5339849353196695866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_29
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 770
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa60d6a6a899269b0800000000000000
+      internalID: -5088335809205172566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_30
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 765
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b029212005bb5ec90800000000000000
+      internalID: -7141095681819504117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 764
+        width: 88
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3047c3493e8be7e0800000000000000
+      internalID: -1735136854819782595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_32
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 764
+        width: 75
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cacba2e9c602d930800000000000000
+      internalID: 4166400069432232644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_33
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 773
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98413064844479350800000000000000
+      internalID: 6023358103834268809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_34
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 769
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f05942e687279be0800000000000000
+      internalID: -1470663293037621003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_35
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 766
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e4ddc7c7daee7a0800000000000000
+      internalID: -6345944074736022014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_36
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 783
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a127e3bac647c4600800000000000000
+      internalID: 453865672535863834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_37
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 765
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebab407d8720c7820800000000000000
+      internalID: 2917209376655981246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_38
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 766
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1bf9b3b9c8bca0800000000000000
+      internalID: -6000824729714615642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_39
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 766
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c75512ab4e27b210800000000000000
+      internalID: 1348597515797485511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_40
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 765
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a2aef06d5dadbe0800000000000000
+      internalID: -1451612814506841540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_41
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 766
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08707c8de45c0150800000000000000
+      internalID: 5840136196032854030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_42
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 765
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ddf9566be27ea10800000000000000
+      internalID: 1938569525530189067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_43
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 766
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cd56b7a1be16ad0800000000000000
+      internalID: -2710627001728377773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_44
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 765
+        width: 67
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e2bc5bd829bce10800000000000000
+      internalID: 2219028378748137090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_45
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 765
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aa55fa95c8aa380800000000000000
+      internalID: -8959194191878575609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_46
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 765
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef7c10f5f10dd10800000000000000
+      internalID: 2148251515167964907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_47
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 766
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259256a9219bd16a0800000000000000
+      internalID: -6476817199538034350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_48
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 766
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c39c01a9469a6e60800000000000000
+      internalID: 7956336934682137539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_49
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 766
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea44d63a61a343b40800000000000000
+      internalID: 5419020120539088046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_50
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 780
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff62a2be5ea5bfd0800000000000000
+      internalID: -2326761910719844363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_51
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 777
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f0bedf7886f340800000000000000
+      internalID: 4897251727590356211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_52
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 766
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5161452d7d0a7c10800000000000000
+      internalID: 2051967411367797084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_53
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 781
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3309c299b87bef0800000000000000
+      internalID: -92451777343900712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_54
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 765
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b3eacad17426da0800000000000000
+      internalID: -5953117564653651133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_55
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 780
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba45204de4320680800000000000000
+      internalID: -8790405329085707595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_56
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 781
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54791abc74540fb0800000000000000
+      internalID: -4682524817883564962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_57
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 766
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32787982bccabc790800000000000000
+      internalID: -7508717965150812381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_58
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 776
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c7bc008bf046a0800000000000000
+      internalID: -6466892537516276832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_59
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 765
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724dbf85a3b33d00800000000000000
+      internalID: 951301469967827571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_60
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 765
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ed8a66d8ea921b0800000000000000
+      internalID: -5680817532615205268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_61
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 765
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d930bd014c63fc8b0800000000000000
+      internalID: -5129821234827426915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_62
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 771
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f5b653c25fcb750800000000000000
+      internalID: 6322197547144929127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_63
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 777
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa501a5e94fb0e70800000000000000
+      internalID: 9082622034475768488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_64
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 777
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9fafe1b560b2280800000000000000
+      internalID: -9067146436348806670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_65
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 783
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d73a076b1abb10800000000000000
+      internalID: 1997939514059248036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_66
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 769
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84011a9bb8ff48180800000000000000
+      internalID: -9113878770311163832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_67
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772df82d6d4ae70b0800000000000000
+      internalID: -5728960433406094729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_68
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 774
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47a7279ded863040800000000000000
+      internalID: 4627041718752487245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_69
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 764
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e4cbc89213da330800000000000000
+      internalID: 3723686521429839497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_70
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 764
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01b7708f033c970800000000000000
+      internalID: 8773910340883386529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_71
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 665
+        width: 158
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b247f5e2a1fa6cb50800000000000000
+      internalID: 6613165629822170155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 590
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7cd01ba2829a20800000000000000
+      internalID: 3067657967426633420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 609
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501106b3b64974ed0800000000000000
+      internalID: -2429810285664530171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 616
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc98efb5fedf3d540800000000000000
+      internalID: 5031644413185395151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_75
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 580
+        width: 129
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8b3e38cc687b560800000000000000
+      internalID: 7329475131512961275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_76
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 608
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37fb5db1b627eab0800000000000000
+      internalID: -4978968318206806213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_77
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 607
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d235d1da02859a40800000000000000
+      internalID: 5374344713318249168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_78
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 589
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89a63d5645f3130800000000000000
+      internalID: 3548647827706648752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_79
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 598
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ff0da59a700890800000000000000
+      internalID: -7493854996672285213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_80
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 541
+        width: 45
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47d97aa7789cf5b0800000000000000
+      internalID: -5333220218984868019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_81
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 604
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da33a07f507f1380800000000000000
+      internalID: -8998349975249012011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_82
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 586
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5ff565ce4c2a460800000000000000
+      internalID: 7251574869360375201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_83
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 592
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e322a28dd8041e0800000000000000
+      internalID: -2215615057106944476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 601
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae13015c07d847ee0800000000000000
+      internalID: -1264230079902240278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_85
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 588
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db95a6a64a8ccfd0800000000000000
+      internalID: -2320327671954433069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_86
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 602
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76800174353683780800000000000000
+      internalID: -8703097070567815065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 576
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af3f38eb95ac20e0800000000000000
+      internalID: -2293276021203451996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_88
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 561
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f77bd19423235f0800000000000000
+      internalID: -778504495969108142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_89
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 587
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d0e9b783341edd0800000000000000
+      internalID: -2458610011696394867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_90
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 532
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e368b4ffb1804d0800000000000000
+      internalID: -3168251554557444521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_91
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 581
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baaa8585360109d0800000000000000
+      internalID: -2809957865558988112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_92
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 577
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ee52c17b6a23260800000000000000
+      internalID: 7075901269933944368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_93
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 553
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274f03b3fd0191520800000000000000
+      internalID: 2673186404777915506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 546
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1e3b1b5cb604230800000000000000
+      internalID: 3621012597239964125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_95
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7943ee58f207d7520800000000000000
+      internalID: 2701438700904920215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_96
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 478
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e473aaeae7be680800000000000000
+      internalID: -8724740564455043453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_97
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 555
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e303950eaa6af0120800000000000000
+      internalID: 2382305980740874302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 546
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667427a71aa698d10800000000000000
+      internalID: 2128349540685858662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_99
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 549
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3a017f0af8dbe50800000000000000
+      internalID: 6826770531666142142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_100
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 549
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a2be8e961a667d0800000000000000
+      internalID: -2925473431679194610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_101
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 531
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4cf787002c87080800000000000000
+      internalID: -9189381732372069123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 523
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eecf19857afb6c0800000000000000
+      internalID: -4125394734799851964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_103
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 507
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854387ae98d4aa70800000000000000
+      internalID: 8837426544734586248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_104
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 521
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1128d2732447310800000000000000
+      internalID: 1401818188773200374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_105
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 517
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49755050ff0a6f310800000000000000
+      internalID: 1438514148152792980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_106
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 507
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829979de3bd6334e0800000000000000
+      internalID: -2003136789697029848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_107
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 490
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1131118a9caa09f70800000000000000
+      internalID: 9192034622548022033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_108
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 525
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fa9b90087568020800000000000000
+      internalID: 2343656863523516198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_109
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 517
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a069d26d4179f20800000000000000
+      internalID: 3429232551386286594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 496
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ce0ecbe07b367b0800000000000000
+      internalID: -5232137068148102113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_111
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 489
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2a320af07982820800000000000000
+      internalID: 2893728853952537301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_112
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 480
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d07465c31178180800000000000000
+      internalID: -9113296370117702264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_113
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 503
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf419190fe5807c0800000000000000
+      internalID: -4104926673020825666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_114
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb7617dba4890110800000000000000
+      internalID: 1227658247018019760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_115
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4c65a75ffecdd0800000000000000
+      internalID: -2463751194222507278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_116
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 488
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3beba38a2a7b1b50800000000000000
+      internalID: 6564975204838927164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_117
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 416
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bffa8f39a489b270800000000000000
+      internalID: 8266784453465669557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_118
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 472
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ccbe5da1046b590800000000000000
+      internalID: -7658863632294622204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_119
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 414
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57dea8bd3f5f8240800000000000000
+      internalID: 4796156846868977502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_120
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 455
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f18c62021bf6160800000000000000
+      internalID: 7021025095741611898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_121
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 457
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0b6f34ade482d70800000000000000
+      internalID: 9018544953159495921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_122
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 397
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f20b95170531cba0800000000000000
+      internalID: -6070512518175194379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_123
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 439
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c857630330341e570800000000000000
+      internalID: 8494144053170304396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_124
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 420
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4bf1ebd1f237bf0800000000000000
+      internalID: -327866543077608226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_125
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 372
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b1ba2a186e2530800000000000000
+      internalID: 3832114794533599731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_126
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 382
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2018fedc11c3551e0800000000000000
+      internalID: -2209793994988224254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_127
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 420
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c132c3acb36180800000000000000
+      internalID: -9123241008598760269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_128
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 408
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b397814eecc8a0800000000000000
+      internalID: -6283385414873795236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_129
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 400
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84257b75f9bfc7770800000000000000
+      internalID: 8610033249415549512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_130
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 391
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8248046fed9900800000000000000
+      internalID: 692973130599271057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_131
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 311
+        width: 34
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6828b1cbda90bda0800000000000000
+      internalID: -5931070440608356243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_132
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 392
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4125ad1b446ebf3a0800000000000000
+      internalID: -6630452843656883692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_133
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 372
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1178564e5b1a76d0800000000000000
+      internalID: -2992048910713196262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_134
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221ac376a03450780800000000000000
+      internalID: -8717487791744966366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_135
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 355
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5477b1b1ee30b06b0800000000000000
+      internalID: -5329161412870965435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_136
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 354
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03592ae0b0995d6e0800000000000000
+      internalID: -1813375002177530576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_137
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 332
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095503baecf335e00800000000000000
+      internalID: 1032238896465859984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_138
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 337
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ded935159d8af2b0800000000000000
+      internalID: -5549967919334957356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_139
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 367
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86fe1fb3c66769e0800000000000000
+      internalID: -1628219749360011636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_140
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 360
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf13c2b02af2a30800000000000000
+      internalID: 4192747946975034343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_141
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 318
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a383770c17abf7150800000000000000
+      internalID: 5872617436837525562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_142
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 362
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d57f064958a39080800000000000000
+      internalID: -9181810113897335342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_143
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 319
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385cb0e7452d7b490800000000000000
+      internalID: -7730478975024380541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_144
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 313
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b440cc0bfc7c9970800000000000000
+      internalID: 8763016392648705201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_145
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 339
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae2494ab2402a8c0800000000000000
+      internalID: -3989621734405558619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_146
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df384ba942a0da20800000000000000
+      internalID: 3085144182038740952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_147
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 330
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be832a5f726c3d0800000000000000
+      internalID: -3186815750375937238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_148
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 304
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bad8ce3d9e019e90800000000000000
+      internalID: -7020814275567887696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 311
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6439e8f672170d0800000000000000
+      internalID: -3426914481365367045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_150
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 320
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181dcc41ed0bf5b80800000000000000
+      internalID: -8403803911771860607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_151
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd7a34663a163970800000000000000
+      internalID: 8734197348243766730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_152
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 318
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ee9405d6565d510800000000000000
+      internalID: 1573275165008719445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_153
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 312
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d1f51a81c16ba0800000000000000
+      internalID: -6097379621665124283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_154
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 303
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601a755da6405a70800000000000000
+      internalID: 8813622181041410156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_155
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 308
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b03a37ab8e05970800000000000000
+      internalID: 8741742764227758990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_156
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 311
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dec31aab62b242c0800000000000000
+      internalID: -4448797306403959080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_157
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 299
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c202a3ed01dde5b0800000000000000
+      internalID: -5337380125780344119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 300
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4f9d303fdbcb3a0800000000000000
+      internalID: -6648230098466376516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 292
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae0c848da3ca880800000000000000
+      internalID: -8598432887949169969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_160
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 296
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332f320fe879547f0800000000000000
+      internalID: -628929932778278349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_161
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 300
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9bf3ae6b3c726e0800000000000000
+      internalID: -1862304730512901637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_162
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 290
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba284dc305b9b3e0800000000000000
+      internalID: -2037398328474850632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_163
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 294
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1092d50589973f9a0800000000000000
+      internalID: -6200478566868768511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_164
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 302
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c779abf023070b0800000000000000
+      internalID: -5733027282506253312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_165
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 287
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7507cb0560dfe0b0800000000000000
+      internalID: -5697105871192521346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_166
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 283
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c011b1222c2ec0f30800000000000000
+      internalID: 4543255447533719820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_167
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 285
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d7c4cb0f08caf0800000000000000
+      internalID: -376034025664949506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_168
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 273
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047e01e8715cc620800000000000000
+      internalID: 2795699048303981581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_169
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 278
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeaa3b10a4cd43a0800000000000000
+      internalID: -6679466480389935448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_170
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 289
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e979a608927b40800000000000000
+      internalID: 5436574854570174057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_171
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db57406f7fc2e8d0800000000000000
+      internalID: -2818462270797423655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_172
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 262
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e0267f484f41720800000000000000
+      internalID: 2816144518936661512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_173
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 261
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab07c0c4414263c10800000000000000
+      internalID: 2032851951398187194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_174
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 255
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287dc8f777fac84c0800000000000000
+      internalID: -4283856217760278654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_175
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 230
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fcf780e6b755c10800000000000000
+      internalID: 2041673718601600919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_176
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 236
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48a3ad4f721d5270800000000000000
+      internalID: 8240763231130593359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_177
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb28169592b8a85b0800000000000000
+      internalID: -5365322996349041989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_178
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 218
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29c95654e0bafa0800000000000000
+      internalID: -5788517204834348367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_179
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 219
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3115aed1a89f0b0800000000000000
+      internalID: -5694368392743414790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_180
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 211
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df3da6bf8463f670800000000000000
+      internalID: 8571305084224094165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_181
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 209
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f1ac737cc5dc50800000000000000
+      internalID: 6689477617913035199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_182
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 181
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca499a13369c66f0800000000000000
+      internalID: -690011496660776251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_183
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21640186845445d80800000000000000
+      internalID: -8262903239032158702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_184
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 189
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a1faa810cf5fd90800000000000000
+      internalID: -7064463356908856795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_185
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 185
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21beece3e926c3e0800000000000000
+      internalID: -2033892122801819350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_186
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 188
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f8c2751002cfc0800000000000000
+      internalID: -3476215870256516323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_187
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 173
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2f6c6b93c62d2d0800000000000000
+      internalID: -3255420585500020026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_188
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 173
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d6bc16b28013a0800000000000000
+      internalID: -6696708927222523871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_189
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4259f845a45fddc00800000000000000
+      internalID: 927166797903271204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_190
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 230
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb137724df70bc5b0800000000000000
+      internalID: -5347171348249103937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_191
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 137
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5375b503de13570800000000000000
+      internalID: 8444791568243045833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_192
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b663975e995dae0800000000000000
+      internalID: -1525143687934874745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_193
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 84
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdcc287c77b29870800000000000000
+      internalID: 8688208376371138034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_194
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70bfdcf68d65260800000000000000
+      internalID: 7086089038422804431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_195
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1
+        width: 97
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb792cda0b81fd90800000000000000
+      internalID: -7065713461607957540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_196
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3aade653e3312a0800000000000000
+      internalID: -6767997415793712195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_197
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77576d5a6f791470800000000000000
+      internalID: 8365857877627721596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_198
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 99
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbeb4bea57d5dde0800000000000000
+      internalID: -1308903331186611261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_199
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65877f3b2733d5f70800000000000000
+      internalID: 9177548183389567062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_200
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c3b6eb8a8ac6700800000000000000
+      internalID: 534987898452917295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_201
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ddd5918815cb440800000000000000
+      internalID: 4952923335183687018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_202
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1dff274a0955c60800000000000000
+      internalID: 7806304565095027115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_203
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 3
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b56df62a3cf0bf80800000000000000
+      internalID: -8092691203692337735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_204
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d42db4d34ac190800000000000000
+      internalID: -7941460411929012430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_205
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87cdcd12d75bd70800000000000000
+      internalID: 9058283809918449853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_206
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 0
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d119599e805af0800000000000000
+      internalID: -409670776815232732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_207
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09782c2481ffeac0800000000000000
+      internalID: -3823572008635434739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_208
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 6
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad51011a7bf81f10800000000000000
+      internalID: 2240817316306705837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_209
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3ea3b0a07926f0800000000000000
+      internalID: -708911630822524015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_210
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 85
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b06b97baa01ac20800000000000000
+      internalID: 3215863340516903713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_211
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 18
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56181d58e6b54bd70800000000000000
+      internalID: 9057965280798540133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_212
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2152d5aaae27e20800000000000000
+      internalID: 3346995490517750524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_213
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 20
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccf2e9cd0de62140800000000000000
+      internalID: 4694700305057774793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_214
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 8
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ebb23de0609990800000000000000
+      internalID: -7381293217385551660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_215
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdcad35f1b209d60800000000000000
+      internalID: 7894857560331308533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_216
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4a8ea2609e95f00800000000000000
+      internalID: 1106171396195132653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_217
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423f3747ca46aa700800000000000000
+      internalID: 552364596157215524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_218
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c69f3b850f31e90800000000000000
+      internalID: -7056031927392179191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_219
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34601a777f0273650800000000000000
+      internalID: 6212470458216941123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_220
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 13
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3b2eddd10bdab0800000000000000
+      internalID: -4982386510328545976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_221
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87b13ec6cdd6ec0800000000000000
+      internalID: -3571956569210128216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_222
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 19
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916e73ea9d5d67b0800000000000000
+      internalID: -5229420672484220528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_223
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 0
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d229c7109ff18860800000000000000
+      internalID: 7530581046279611096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_224
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 5
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40640f88a058596a0800000000000000
+      internalID: -6443097411590011388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_225
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1
+        width: 111
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b01d5d7fa3267330800000000000000
+      internalID: 3708190579815682226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_226
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 13
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f22979899f2480800000000000000
+      internalID: -8921743521075760668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_227
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52434481a5d5fb80800000000000000
+      internalID: -8361542243458006434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_228
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978ed792f9f483b20800000000000000
+      internalID: 3114326687341209721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_229
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b348f176bb3fb0800000000000000
+      internalID: -4666935988226639409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Lines_230
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1
+        width: 85
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98019806109dfc6f0800000000000000
+      internalID: -662072020262383479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Camera Lines_0: 5770496658169021747
+      Camera Lines_1: -6433362106324789874
+      Camera Lines_10: -8431236613350884237
+      Camera Lines_100: -2925473431679194610
+      Camera Lines_101: -9189381732372069123
+      Camera Lines_102: -4125394734799851964
+      Camera Lines_103: 8837426544734586248
+      Camera Lines_104: 1401818188773200374
+      Camera Lines_105: 1438514148152792980
+      Camera Lines_106: -2003136789697029848
+      Camera Lines_107: 9192034622548022033
+      Camera Lines_108: 2343656863523516198
+      Camera Lines_109: 3429232551386286594
+      Camera Lines_11: -5744670315979675101
+      Camera Lines_110: -5232137068148102113
+      Camera Lines_111: 2893728853952537301
+      Camera Lines_112: -9113296370117702264
+      Camera Lines_113: -4104926673020825666
+      Camera Lines_114: 1227658247018019760
+      Camera Lines_115: -2463751194222507278
+      Camera Lines_116: 6564975204838927164
+      Camera Lines_117: 8266784453465669557
+      Camera Lines_118: -7658863632294622204
+      Camera Lines_119: 4796156846868977502
+      Camera Lines_12: 5235723749095236619
+      Camera Lines_120: 7021025095741611898
+      Camera Lines_121: 9018544953159495921
+      Camera Lines_122: -6070512518175194379
+      Camera Lines_123: 8494144053170304396
+      Camera Lines_124: -327866543077608226
+      Camera Lines_125: 3832114794533599731
+      Camera Lines_126: -2209793994988224254
+      Camera Lines_127: -9123241008598760269
+      Camera Lines_128: -6283385414873795236
+      Camera Lines_129: 8610033249415549512
+      Camera Lines_13: 6883489868170695757
+      Camera Lines_130: 692973130599271057
+      Camera Lines_131: -5931070440608356243
+      Camera Lines_132: -6630452843656883692
+      Camera Lines_133: -2992048910713196262
+      Camera Lines_134: -8717487791744966366
+      Camera Lines_135: -5329161412870965435
+      Camera Lines_136: -1813375002177530576
+      Camera Lines_137: 1032238896465859984
+      Camera Lines_138: -5549967919334957356
+      Camera Lines_139: -1628219749360011636
+      Camera Lines_14: 970042605014282718
+      Camera Lines_140: 4192747946975034343
+      Camera Lines_141: 5872617436837525562
+      Camera Lines_142: -9181810113897335342
+      Camera Lines_143: -7730478975024380541
+      Camera Lines_144: 8763016392648705201
+      Camera Lines_145: -3989621734405558619
+      Camera Lines_146: 3085144182038740952
+      Camera Lines_147: -3186815750375937238
+      Camera Lines_148: -7020814275567887696
+      Camera Lines_149: -3426914481365367045
+      Camera Lines_15: 3345980466597173788
+      Camera Lines_150: -8403803911771860607
+      Camera Lines_151: 8734197348243766730
+      Camera Lines_152: 1573275165008719445
+      Camera Lines_153: -6097379621665124283
+      Camera Lines_154: 8813622181041410156
+      Camera Lines_155: 8741742764227758990
+      Camera Lines_156: -4448797306403959080
+      Camera Lines_157: -5337380125780344119
+      Camera Lines_158: -6648230098466376516
+      Camera Lines_159: -8598432887949169969
+      Camera Lines_16: -8426341685907332231
+      Camera Lines_160: -628929932778278349
+      Camera Lines_161: -1862304730512901637
+      Camera Lines_162: -2037398328474850632
+      Camera Lines_163: -6200478566868768511
+      Camera Lines_164: -5733027282506253312
+      Camera Lines_165: -5697105871192521346
+      Camera Lines_166: 4543255447533719820
+      Camera Lines_167: -376034025664949506
+      Camera Lines_168: 2795699048303981581
+      Camera Lines_169: -6679466480389935448
+      Camera Lines_17: -8842516933465933214
+      Camera Lines_170: 5436574854570174057
+      Camera Lines_171: -2818462270797423655
+      Camera Lines_172: 2816144518936661512
+      Camera Lines_173: 2032851951398187194
+      Camera Lines_174: -4283856217760278654
+      Camera Lines_175: 2041673718601600919
+      Camera Lines_176: 8240763231130593359
+      Camera Lines_177: -5365322996349041989
+      Camera Lines_178: -5788517204834348367
+      Camera Lines_179: -5694368392743414790
+      Camera Lines_18: 1489722175157042916
+      Camera Lines_180: 8571305084224094165
+      Camera Lines_181: 6689477617913035199
+      Camera Lines_182: -690011496660776251
+      Camera Lines_183: -8262903239032158702
+      Camera Lines_184: -7064463356908856795
+      Camera Lines_185: -2033892122801819350
+      Camera Lines_186: -3476215870256516323
+      Camera Lines_187: -3255420585500020026
+      Camera Lines_188: -6696708927222523871
+      Camera Lines_189: 927166797903271204
+      Camera Lines_19: 925882436216065334
+      Camera Lines_190: -5347171348249103937
+      Camera Lines_191: 8444791568243045833
+      Camera Lines_192: -1525143687934874745
+      Camera Lines_193: 8688208376371138034
+      Camera Lines_194: 7086089038422804431
+      Camera Lines_195: -7065713461607957540
+      Camera Lines_196: -6767997415793712195
+      Camera Lines_197: 8365857877627721596
+      Camera Lines_198: -1308903331186611261
+      Camera Lines_199: 9177548183389567062
+      Camera Lines_2: -3892607153055394429
+      Camera Lines_20: -6532018974980676152
+      Camera Lines_200: 534987898452917295
+      Camera Lines_201: 4952923335183687018
+      Camera Lines_202: 7806304565095027115
+      Camera Lines_203: -8092691203692337735
+      Camera Lines_204: -7941460411929012430
+      Camera Lines_205: 9058283809918449853
+      Camera Lines_206: -409670776815232732
+      Camera Lines_207: -3823572008635434739
+      Camera Lines_208: 2240817316306705837
+      Camera Lines_209: -708911630822524015
+      Camera Lines_21: 2674211513756755853
+      Camera Lines_210: 3215863340516903713
+      Camera Lines_211: 9057965280798540133
+      Camera Lines_212: 3346995490517750524
+      Camera Lines_213: 4694700305057774793
+      Camera Lines_214: -7381293217385551660
+      Camera Lines_215: 7894857560331308533
+      Camera Lines_216: 1106171396195132653
+      Camera Lines_217: 552364596157215524
+      Camera Lines_218: -7056031927392179191
+      Camera Lines_219: 6212470458216941123
+      Camera Lines_22: -6725478189723397366
+      Camera Lines_220: -4982386510328545976
+      Camera Lines_221: -3571956569210128216
+      Camera Lines_222: -5229420672484220528
+      Camera Lines_223: 7530581046279611096
+      Camera Lines_224: -6443097411590011388
+      Camera Lines_225: 3708190579815682226
+      Camera Lines_226: -8921743521075760668
+      Camera Lines_227: -8361542243458006434
+      Camera Lines_228: 3114326687341209721
+      Camera Lines_229: -4666935988226639409
+      Camera Lines_23: -4415882124111351162
+      Camera Lines_230: -662072020262383479
+      Camera Lines_24: 1795243939391218061
+      Camera Lines_25: 5106141223273409561
+      Camera Lines_26: 8145495010875637319
+      Camera Lines_27: 2146483319986348066
+      Camera Lines_28: -5339849353196695866
+      Camera Lines_29: -5088335809205172566
+      Camera Lines_3: 5869624503928201995
+      Camera Lines_30: -7141095681819504117
+      Camera Lines_31: -1735136854819782595
+      Camera Lines_32: 4166400069432232644
+      Camera Lines_33: 6023358103834268809
+      Camera Lines_34: -1470663293037621003
+      Camera Lines_35: -6345944074736022014
+      Camera Lines_36: 453865672535863834
+      Camera Lines_37: 2917209376655981246
+      Camera Lines_38: -6000824729714615642
+      Camera Lines_39: 1348597515797485511
+      Camera Lines_4: -2009628078569279183
+      Camera Lines_40: -1451612814506841540
+      Camera Lines_41: 5840136196032854030
+      Camera Lines_42: 1938569525530189067
+      Camera Lines_43: -2710627001728377773
+      Camera Lines_44: 2219028378748137090
+      Camera Lines_45: -8959194191878575609
+      Camera Lines_46: 2148251515167964907
+      Camera Lines_47: -6476817199538034350
+      Camera Lines_48: 7956336934682137539
+      Camera Lines_49: 5419020120539088046
+      Camera Lines_5: 1513783697013293941
+      Camera Lines_50: -2326761910719844363
+      Camera Lines_51: 4897251727590356211
+      Camera Lines_52: 2051967411367797084
+      Camera Lines_53: -92451777343900712
+      Camera Lines_54: -5953117564653651133
+      Camera Lines_55: -8790405329085707595
+      Camera Lines_56: -4682524817883564962
+      Camera Lines_57: -7508717965150812381
+      Camera Lines_58: -6466892537516276832
+      Camera Lines_59: 951301469967827571
+      Camera Lines_6: 5691278413185700596
+      Camera Lines_60: -5680817532615205268
+      Camera Lines_61: -5129821234827426915
+      Camera Lines_62: 6322197547144929127
+      Camera Lines_63: 9082622034475768488
+      Camera Lines_64: -9067146436348806670
+      Camera Lines_65: 1997939514059248036
+      Camera Lines_66: -9113878770311163832
+      Camera Lines_67: -5728960433406094729
+      Camera Lines_68: 4627041718752487245
+      Camera Lines_69: 3723686521429839497
+      Camera Lines_7: -8742571491262700108
+      Camera Lines_70: 8773910340883386529
+      Camera Lines_71: 6613165629822170155
+      Camera Lines_72: 3067657967426633420
+      Camera Lines_73: -2429810285664530171
+      Camera Lines_74: 5031644413185395151
+      Camera Lines_75: 7329475131512961275
+      Camera Lines_76: -4978968318206806213
+      Camera Lines_77: 5374344713318249168
+      Camera Lines_78: 3548647827706648752
+      Camera Lines_79: -7493854996672285213
+      Camera Lines_8: 148464313797278745
+      Camera Lines_80: -5333220218984868019
+      Camera Lines_81: -8998349975249012011
+      Camera Lines_82: 7251574869360375201
+      Camera Lines_83: -2215615057106944476
+      Camera Lines_84: -1264230079902240278
+      Camera Lines_85: -2320327671954433069
+      Camera Lines_86: -8703097070567815065
+      Camera Lines_87: -2293276021203451996
+      Camera Lines_88: -778504495969108142
+      Camera Lines_89: -2458610011696394867
+      Camera Lines_9: -2126089023024374554
+      Camera Lines_90: -3168251554557444521
+      Camera Lines_91: -2809957865558988112
+      Camera Lines_92: 7075901269933944368
+      Camera Lines_93: 2673186404777915506
+      Camera Lines_94: 3621012597239964125
+      Camera Lines_95: 2701438700904920215
+      Camera Lines_96: -8724740564455043453
+      Camera Lines_97: 2382305980740874302
+      Camera Lines_98: 2128349540685858662
+      Camera Lines_99: 6826770531666142142
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

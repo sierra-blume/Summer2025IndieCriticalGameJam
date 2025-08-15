@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 0cf217205cd287645aead906813c9207
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4517092625864319721
+    second: Title Underline_0
+  - first:
+      213: -1498663246013623153
+    second: Title Underline_1
+  - first:
+      213: -7190244771898263969
+    second: Title Underline_2
+  - first:
+      213: -606389318299060050
+    second: Title Underline_3
+  - first:
+      213: -7609356382787436698
+    second: Title Underline_4
+  - first:
+      213: -3539979051282280244
+    second: Title Underline_5
+  - first:
+      213: -1173270622107778340
+    second: Title Underline_6
+  - first:
+      213: 4149513407656758215
+    second: Title Underline_7
+  - first:
+      213: 8744886826405939219
+    second: Title Underline_8
+  - first:
+      213: -3707161228778300554
+    second: Title Underline_9
+  - first:
+      213: -4613402770915486709
+    second: Title Underline_10
+  - first:
+      213: 974223088426606253
+    second: Title Underline_11
+  - first:
+      213: 56905638429025945
+    second: Title Underline_12
+  - first:
+      213: -3563555069904782825
+    second: Title Underline_13
+  - first:
+      213: -882821869932228096
+    second: Title Underline_14
+  - first:
+      213: -5246976521409543639
+    second: Title Underline_15
+  - first:
+      213: 8713085324766747470
+    second: Title Underline_16
+  - first:
+      213: -6383590818101505800
+    second: Title Underline_17
+  - first:
+      213: 4595634981327203708
+    second: Title Underline_18
+  - first:
+      213: 7312506754653479837
+    second: Title Underline_19
+  - first:
+      213: 2319010846327685377
+    second: Title Underline_20
+  - first:
+      213: -2431995867944729447
+    second: Title Underline_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title Underline_0
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 163
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d12d970301051c0800000000000000
+      internalID: -4517092625864319721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 190
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f849c6fc7bda33be0800000000000000
+      internalID: -1498663246013623153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 189
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f4eab97e173c90800000000000000
+      internalID: -7190244771898263969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_3
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 194
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea87137b02ca597f0800000000000000
+      internalID: -606389318299060050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 189
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f7a9a9fa2266690800000000000000
+      internalID: -7609356382787436698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_5
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 191
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0def7fec77fdec0800000000000000
+      internalID: -3539979051282280244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_6
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 177
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24ddfd594b7bfe0800000000000000
+      internalID: -1173270622107778340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0a1e8578069930800000000000000
+      internalID: 4149513407656758215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_8
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 116
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3184be87c341c5970800000000000000
+      internalID: 8744886826405939219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 164
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9199f0848d8cc0800000000000000
+      internalID: -3707161228778300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 110
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0497c96f96e9ffb0800000000000000
+      internalID: -4613402770915486709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 61
+        width: 15
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daed6adbcb2258d00800000000000000
+      internalID: 974223088426606253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 91
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996674c606b2ac000800000000000000
+      internalID: 56905638429025945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 84
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a78c06b85bb8ec0800000000000000
+      internalID: -3563555069904782825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 90
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0025ebacf269fb3f0800000000000000
+      internalID: -882821869932228096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_15
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 47
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c19847aefe27b0800000000000000
+      internalID: -5246976521409543639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 56
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b146060f81be870800000000000000
+      internalID: 8713085324766747470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 42
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05d9ff8fde867a0800000000000000
+      internalID: -6383590818101505800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_18
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 24
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ded53baa9f6cf30800000000000000
+      internalID: 4595634981327203708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 27
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e3c8662e3b7560800000000000000
+      internalID: 7312506754653479837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 24
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101c3adf318ce2020800000000000000
+      internalID: 2319010846327685377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Underline_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1298
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994cfe3b4a0df3ed0800000000000000
+      internalID: -2431995867944729447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Title Underline_0: -4517092625864319721
+      Title Underline_1: -1498663246013623153
+      Title Underline_10: -4613402770915486709
+      Title Underline_11: 974223088426606253
+      Title Underline_12: 56905638429025945
+      Title Underline_13: -3563555069904782825
+      Title Underline_14: -882821869932228096
+      Title Underline_15: -5246976521409543639
+      Title Underline_16: 8713085324766747470
+      Title Underline_17: -6383590818101505800
+      Title Underline_18: 4595634981327203708
+      Title Underline_19: 7312506754653479837
+      Title Underline_2: -7190244771898263969
+      Title Underline_20: 2319010846327685377
+      Title Underline_21: -2431995867944729447
+      Title Underline_3: -606389318299060050
+      Title Underline_4: -7609356382787436698
+      Title Underline_5: -3539979051282280244
+      Title Underline_6: -1173270622107778340
+      Title Underline_7: 4149513407656758215
+      Title Underline_8: 8744886826405939219
+      Title Underline_9: -3707161228778300554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
