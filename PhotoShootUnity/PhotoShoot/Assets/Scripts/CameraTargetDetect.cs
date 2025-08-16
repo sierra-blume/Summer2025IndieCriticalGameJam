@@ -12,7 +12,7 @@ public class CameraTargetDetect : MonoBehaviour
 
     //switches to true if the players cursor is on a currently valid photo target
     bool onTarget = false;
-    Collider2D currentCollision;
+    public List<Collider2D> currentCollision;
 
     void OnMouseDown()
     {
@@ -21,7 +21,15 @@ public class CameraTargetDetect : MonoBehaviour
         //checks if the player has clicked on a currently availible target and removes it from the currentTargets list if they have, then updates the game state if the list is empty
         if (onTarget)
         {
-            currentTargets.Remove(currentCollision.gameObject);
+            foreach (Collider2D currentTarget in currentCollision)
+            {
+                if(currentTargets.Contains(currentTarget.gameObject))
+                {
+                    currentTargets.Remove(currentTarget.gameObject);
+                }
+                
+            }
+            
             if (currentTargets.Count == 0)
             {
                 gameManager.UpdateGameState((GameState)((int)gameManager.State + 1));
@@ -33,7 +41,7 @@ public class CameraTargetDetect : MonoBehaviour
     {
         if (collision.CompareTag("Target") && currentTargets.Contains(collision.gameObject))
         {
-            currentCollision = collision;
+            currentCollision.Add(collision);
             onTarget = true;
         }
     }
@@ -42,7 +50,10 @@ public class CameraTargetDetect : MonoBehaviour
     {
         if (onTarget)
         {
-            currentCollision = null;
+            if (currentCollision.Contains(collision))
+            {
+                currentCollision.Remove(collision);
+            }
             onTarget = false;
         }
     }
@@ -53,7 +64,7 @@ public class CameraTargetDetect : MonoBehaviour
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
 
         //This line is useful for testing
-        //currentTargets = GameObject.FindGameObjectsWithTag("Target").ToList<GameObject>();
+        currentTargets = GameObject.FindGameObjectsWithTag("Target").ToList<GameObject>();
     }
 
     // Update is called once per frame
