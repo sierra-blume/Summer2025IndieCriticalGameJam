@@ -27,7 +27,6 @@ public class CameraTargetDetect : MonoBehaviour
                 {
                     currentTargets.Remove(currentTarget.gameObject);
                 }
-                
             }
             
             if (currentTargets.Count == 0)

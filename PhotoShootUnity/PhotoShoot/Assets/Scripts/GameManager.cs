@@ -31,6 +31,12 @@ public class GameManager : MonoBehaviour
     //Event system to create notificaitons when things change
     public static event Action<GameState> OnGameStateChange;
 
+    public List<GameObject> targetSet1;
+    public List<GameObject> targetSet2;
+    public List<GameObject> targetSet3;
+    public List<GameObject> targetSet4;
+    public List<GameObject> targetSet5;
+
     public int mouseSensitivity = 250;
 
     private void Awake()
