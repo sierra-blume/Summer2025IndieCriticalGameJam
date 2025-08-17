@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: f2510752a744d4a4b8fca9a441c963d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -314907598922616404
+    second: CameraReticle_UI_0
+  - first:
+      213: -1098105642588336684
+    second: CameraReticle_UI_1
+  - first:
+      213: -6171395204851692665
+    second: CameraReticle_UI_2
+  - first:
+      213: -8728935212027662924
+    second: CameraReticle_UI_3
+  - first:
+      213: 5753180425380925101
+    second: CameraReticle_UI_4
+  - first:
+      213: 838972565452461742
+    second: CameraReticle_UI_5
+  - first:
+      213: -1230498537567925376
+    second: CameraReticle_UI_6
+  - first:
+      213: -9062439013108772139
+    second: CameraReticle_UI_7
+  - first:
+      213: -1276602727090729514
+    second: CameraReticle_UI_8
+  - first:
+      213: 4951974702433301237
+    second: CameraReticle_UI_9
+  - first:
+      213: -5280416849886452517
+    second: CameraReticle_UI_10
+  - first:
+      213: -3724366907279429110
+    second: CameraReticle_UI_11
+  - first:
+      213: -727862662747631467
+    second: CameraReticle_UI_12
+  - first:
+      213: 4273426215299377476
+    second: CameraReticle_UI_13
+  - first:
+      213: -8694989580857198892
+    second: CameraReticle_UI_14
+  - first:
+      213: 6683316830174662744
+    second: CameraReticle_UI_15
+  - first:
+      213: 5360530034106949021
+    second: CameraReticle_UI_16
+  - first:
+      213: 211100855078463557
+    second: CameraReticle_UI_17
+  - first:
+      213: 4010736487101333448
+    second: CameraReticle_UI_18
+  - first:
+      213: -5083055259249323759
+    second: CameraReticle_UI_19
+  - first:
+      213: -3623854640269649341
+    second: CameraReticle_UI_20
+  - first:
+      213: -7494241398648613535
+    second: CameraReticle_UI_21
+  - first:
+      213: -3042017611155020507
+    second: CameraReticle_UI_22
+  - first:
+      213: 660175619702113772
+    second: CameraReticle_UI_23
+  - first:
+      213: 5208885466386213020
+    second: CameraReticle_UI_24
+  - first:
+      213: 2860460470881919833
+    second: CameraReticle_UI_25
+  - first:
+      213: 1956062036623803800
+    second: CameraReticle_UI_26
+  - first:
+      213: 2116056780163203635
+    second: CameraReticle_UI_27
+  - first:
+      213: -6760680561297171726
+    second: CameraReticle_UI_28
+  - first:
+      213: -6122767770015770771
+    second: CameraReticle_UI_29
+  - first:
+      213: -4720928718063371251
+    second: CameraReticle_UI_30
+  - first:
+      213: -4654550620866191707
+    second: CameraReticle_UI_31
+  - first:
+      213: -7748848210744345243
+    second: CameraReticle_UI_32
+  - first:
+      213: 2320962925608701339
+    second: CameraReticle_UI_33
+  - first:
+      213: -1772168630145608997
+    second: CameraReticle_UI_34
+  - first:
+      213: -2571784832329014935
+    second: CameraReticle_UI_35
+  - first:
+      213: -4305524981390097644
+    second: CameraReticle_UI_36
+  - first:
+      213: -6162636632165664134
+    second: CameraReticle_UI_37
+  - first:
+      213: 6641225588152072786
+    second: CameraReticle_UI_38
+  - first:
+      213: 3422038153997608889
+    second: CameraReticle_UI_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CameraReticle_UI_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 254
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1752d053931abf0800000000000000
+      internalID: -314907598922616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 262
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd8baf6cbeb2c0f0800000000000000
+      internalID: -1098105642588336684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 278
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b044632ccca5aa0800000000000000
+      internalID: -6171395204851692665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 261
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd21bb2ca79cd680800000000000000
+      internalID: -8728935212027662924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 252
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8f8f7d1767df40800000000000000
+      internalID: 5753180425380925101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 245
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6971c6a11a4ab00800000000000000
+      internalID: 838972565452461742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 242
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b40ab79146ceee0800000000000000
+      internalID: -1230498537567925376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 198
+        width: 159
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d292018bbfbb3280800000000000000
+      internalID: -9062439013108772139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 224
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd467c5598984ee0800000000000000
+      internalID: -1276602727090729514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 225
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2f14351c2f8b440800000000000000
+      internalID: 4951974702433301237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 197
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4e7841ad038b6b0800000000000000
+      internalID: -5280416849886452517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_11
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 224
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02b366c704605cc0800000000000000
+      internalID: -3724366907279429110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 225
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59058adb3cc16e5f0800000000000000
+      internalID: -727862662747631467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 169
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449e2c050824e4b30800000000000000
+      internalID: 4273426215299377476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 188
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6b8435b01355780800000000000000
+      internalID: -8694989580857198892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 154
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85053ff4f39efbc50800000000000000
+      internalID: 6683316830174662744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd1ca2aad646a40800000000000000
+      internalID: 5360530034106949021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 105
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548abb6fb1bfde200800000000000000
+      internalID: 211100855078463557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf7f51d59ff8a730800000000000000
+      internalID: 4010736487101333448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 139
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11153c24c2c5579b0800000000000000
+      internalID: -5083055259249323759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 123
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9319976b75bdc0800000000000000
+      internalID: -3623854640269649341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d584772b1ff790800000000000000
+      internalID: -7494241398648613535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5256f96991598c5d0800000000000000
+      internalID: -3042017611155020507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 98
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c7b57a3a692900800000000000000
+      internalID: 660175619702113772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 76
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9825abdbbda94840800000000000000
+      internalID: 5208885466386213020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 81
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953a6f494a562b720800000000000000
+      internalID: 2860460470881919833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c6930f04552b10800000000000000
+      internalID: 1956062036623803800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 43
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324f222e6ebd5d10800000000000000
+      internalID: 2116056780163203635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 43
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa5eff59dc3d22a0800000000000000
+      internalID: -6760680561297171726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 43
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67dff9272f870ba0800000000000000
+      internalID: -6122767770015770771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c74ede754eb7eb0800000000000000
+      internalID: -4720928718063371251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 43
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae52360fd6b76fb0800000000000000
+      internalID: -4654550620866191707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 42
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d79248b9f867490800000000000000
+      internalID: -7748848210744345243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 43
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d02cddb77b53020800000000000000
+      internalID: 2320962925608701339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 21
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2941e250ef767e0800000000000000
+      internalID: -1772168630145608997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 43
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961aa46225f2f4cd0800000000000000
+      internalID: -2571784832329014935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134ca057d3bf34c0800000000000000
+      internalID: -4305524981390097644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_37
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 43
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ab4f352aae97aa0800000000000000
+      internalID: -6162636632165664134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 12
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af9075c7f5a2c50800000000000000
+      internalID: 6641225588152072786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraReticle_UI_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76cd002958d7f20800000000000000
+      internalID: 3422038153997608889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CameraReticle_UI_0: -314907598922616404
+      CameraReticle_UI_1: -1098105642588336684
+      CameraReticle_UI_10: -5280416849886452517
+      CameraReticle_UI_11: -3724366907279429110
+      CameraReticle_UI_12: -727862662747631467
+      CameraReticle_UI_13: 4273426215299377476
+      CameraReticle_UI_14: -8694989580857198892
+      CameraReticle_UI_15: 6683316830174662744
+      CameraReticle_UI_16: 5360530034106949021
+      CameraReticle_UI_17: 211100855078463557
+      CameraReticle_UI_18: 4010736487101333448
+      CameraReticle_UI_19: -5083055259249323759
+      CameraReticle_UI_2: -6171395204851692665
+      CameraReticle_UI_20: -3623854640269649341
+      CameraReticle_UI_21: -7494241398648613535
+      CameraReticle_UI_22: -3042017611155020507
+      CameraReticle_UI_23: 660175619702113772
+      CameraReticle_UI_24: 5208885466386213020
+      CameraReticle_UI_25: 2860460470881919833
+      CameraReticle_UI_26: 1956062036623803800
+      CameraReticle_UI_27: 2116056780163203635
+      CameraReticle_UI_28: -6760680561297171726
+      CameraReticle_UI_29: -6122767770015770771
+      CameraReticle_UI_3: -8728935212027662924
+      CameraReticle_UI_30: -4720928718063371251
+      CameraReticle_UI_31: -4654550620866191707
+      CameraReticle_UI_32: -7748848210744345243
+      CameraReticle_UI_33: 2320962925608701339
+      CameraReticle_UI_34: -1772168630145608997
+      CameraReticle_UI_35: -2571784832329014935
+      CameraReticle_UI_36: -4305524981390097644
+      CameraReticle_UI_37: -6162636632165664134
+      CameraReticle_UI_38: 6641225588152072786
+      CameraReticle_UI_39: 3422038153997608889
+      CameraReticle_UI_4: 5753180425380925101
+      CameraReticle_UI_5: 838972565452461742
+      CameraReticle_UI_6: -1230498537567925376
+      CameraReticle_UI_7: -9062439013108772139
+      CameraReticle_UI_8: -1276602727090729514
+      CameraReticle_UI_9: 4951974702433301237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
